@@ -1,0 +1,10 @@
+Timer: 
+	Button to Start/Stop
+	Button to Reset
+	Light to signal completed
+Counter:
+	Home: Up
+	Away: Up
+	Reset
+
+	
